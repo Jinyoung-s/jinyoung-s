@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">, I am Jinyoung So
 
 <!--
 **Jinyoung-s/jinyoung-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
